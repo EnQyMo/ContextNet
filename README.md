@@ -412,12 +412,6 @@ this repository (`git@github.com:EnQyMo/ContextNet.git`).
 
 ## License and Contribution Guidelines
 
-This project is part of the ContextNet system. The repository has no separate
-license file. Contact the repository owners at `github.com/EnQyMo` before you
-reuse the code.
+No license file is currently included in this repository; the code is not licensed for reuse or redistribution until a license is added. Contact the repository owner (EnQyMo) before reusing this code.
 
-To contribute:
-
-1. Fork the repository `EnQyMo/ContextNet`.
-2. Create a branch for your change.
-3. Open a pull request with a clear description of the change.
+Contributions: this repository does not currently define a formal contribution process. If you'd like to contribute, please open an issue first to discuss the proposed change before submitting a pull request.
